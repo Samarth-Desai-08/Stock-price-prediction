@@ -23,7 +23,6 @@ This project demonstrates a simple **Stock Price Prediction** pipeline using his
 ```
 ├── stock_price_prediction.py   # Main script
 ├── requirements.txt            # Python dependencies
-├── artifacts/                  # Saved models, scalers, plots
 └── README.md                   # Project documentation
 ```
 
